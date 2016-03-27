@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MoboCw</string>
+    <string name="action_settings">Ambient Mode</string>
+    <string name="action_home">Home</string>
+    <string name="save">1</string>
+    <string name="due">100</string>
+</resources>

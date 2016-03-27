@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="400px"
+    android:padding="10dp"
+    android:gravity="center_vertical"
+    android:weightSum="1"
+    android:orientation="vertical"
+    android:id="@+id/linear_layout">
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:layout_weight="0.50">
+    </TextView>
+
+    <TextView
+        android:id="@+id/textDisc"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>

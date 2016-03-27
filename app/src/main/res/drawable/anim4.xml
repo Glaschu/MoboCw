@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+
+    <item
+        android:drawable="@drawable/circle_0"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/circle_1"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/circle_2"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/circle_3"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/circle_4"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/circle_5"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/circle_6"
+        android:duration="400"/>
+    <item
+        android:drawable="@drawable/circle_7"
+        android:duration="400"/>
+</animation-list>
